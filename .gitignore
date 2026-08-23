@@ -1,0 +1,20 @@
+# Godot 4 engine .gitignore
+.godot/
+*.translation
+
+# Mono / C# specific
+.mono/
+[Bb]in/
+[Oo]bj/
+.vs/
+*.csproj
+*.sln
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temp and logs
+*.log
+*.tmp
